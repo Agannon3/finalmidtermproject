@@ -1,0 +1,47 @@
+
+
+/* The background-blend-mode: color-burn was a good transition
+from the home page I think the white text fits in well with the background
+*/
+@media screen and (min-width: 480px){
+body{
+    background-color: pink;
+    background-image: url("heartbanner1.png");
+    background-size: auto;
+    background-position: center-right;
+    padding:0;
+    margin:0;
+    border-style: hidden;
+    background-blend-mode: color-burn;
+}
+}
+
+h1 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 50px;
+    margin: 20px;
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 70px;
+    margin: 40px;
+}
+
+p {
+    font-family: 'Hind Siliguri', sans-serif;
+    font_size: 40px;
+    color: white;
+    line-height: 50px;
+    font_size: 40px;
+    padding: 20px
+}
+.paragraph{
+    color: white;
+    font-size: 40px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+space{
+    display: none;
+}
